@@ -1,0 +1,7 @@
+interface:
+  display_name: "도서메일 분류"
+  short_description: "프로젝트명으로 Outlook 도서 접수·제출 메일을 분류하고 이동"
+  default_prompt: "$outlook-document-mail-routing 스킬로 지정한 프로젝트의 상위 폴더 메일을 접수·제출로 분류하고 도서관리 폴더로 이동해 주세요. 필요한 프로젝트·도서관리 폴더는 없으면 만들어 주세요."
+
+policy:
+  allow_implicit_invocation: true
