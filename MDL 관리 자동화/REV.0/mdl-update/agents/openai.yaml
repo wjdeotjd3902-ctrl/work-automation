@@ -1,0 +1,8 @@
+interface:
+  display_name: "MDL 최신화"
+  short_description: "프로젝트별 양식에 맞춰 기존 MDL을 최신화"
+  default_prompt: "MDL 최신화 스킬로 도서관리 메일을 확인하고 지정한 기존 MDL 작업본에 검증된 Revision, 제출일, 접수일, STATUS만 반영해 주세요. 먼저 양식 프로필과 Dry Run 변경표를 보여 주세요."
+
+policy:
+  allow_implicit_invocation: true
+
