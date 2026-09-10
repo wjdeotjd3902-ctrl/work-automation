@@ -1,0 +1,26 @@
+{
+  "project": "예시 프로젝트",
+  "workbookPath": "C:\\path\\현재작업본.xlsx",
+  "profilePath": "C:\\path\\example-project.json",
+  "updates": [
+    {
+      "docNo": "EXAMPLE-DOC-001",
+      "issue": 2,
+      "field": "reviewerReceiptDate",
+      "reviewer": "검토기관 A",
+      "value": "2026-09-01",
+      "replaceExisting": false,
+      "evidence": "Outlook EntryID and returned CRS"
+    },
+    {
+      "docNo": "EXAMPLE-DOC-001",
+      "issue": 2,
+      "field": "reviewerStatus",
+      "reviewer": "검토기관 A",
+      "value": "A",
+      "replaceExisting": false,
+      "evidence": "Approval Code A in returned sheet"
+    }
+  ]
+}
+
