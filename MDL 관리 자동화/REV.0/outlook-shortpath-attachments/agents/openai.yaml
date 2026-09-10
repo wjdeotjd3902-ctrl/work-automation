@@ -1,0 +1,7 @@
+interface:
+  display_name: "첨부파일 다운"
+  short_description: "Save Outlook attachments with short paths"
+  default_prompt: "Use $outlook-shortpath-attachments to save Classic Outlook attachments through short paths and preserve original names in a manifest."
+
+policy:
+  allow_implicit_invocation: true
