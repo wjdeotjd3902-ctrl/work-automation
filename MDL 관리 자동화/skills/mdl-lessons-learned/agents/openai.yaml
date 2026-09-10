@@ -1,0 +1,6 @@
+interface:
+  display_name: "MDL 오류 L&L 관리"
+  short_description: "MDL 자동화 오류 접수와 해결방안 조사 및 GitHub 이력 저장"
+  default_prompt: "$mdl-lessons-learned 이 MDL 자동화 문제를 접수하고 해결방안을 조사해 L&L에 저장해줘."
+policy:
+  allow_implicit_invocation: true
